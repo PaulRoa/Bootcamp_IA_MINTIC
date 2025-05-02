@@ -1,0 +1,27 @@
+/* Estilo Base */
+body{
+    background-color: beige;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+/* Contenedor Centrado */
+.container{
+max-width: 90%;
+width: 600px;
+margin: 0 auto;
+padding: 20px;
+text-align: center;
+}
+
+/* Título */
+h1{
+    color: #393E46;
+    font-size: 3rem;
+}
+
+/* Image Responsive */
+img{
+    max-width: 200%;
+    height: 600px;
+    border-radius: 10px;
+}
